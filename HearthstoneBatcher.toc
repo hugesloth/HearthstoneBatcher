@@ -1,0 +1,15 @@
+## Interface: 11501
+## X-Interface: 11501
+## Version: 0.1
+## Title: HearthstoneBatcher
+## Notes: HearthstoneBatcher
+## Author: murrm
+## SavedVariables: HearthstoneBatcher
+## SavedVariablesPerCharacter: HSBATCH_ENABLED
+## OptionalDependencies: LibStub, CallbackHandler-1.0, LibDetours
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDetours-1.0\LibDetours-1.0.lua
+
+main.lua
